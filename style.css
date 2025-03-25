@@ -2,7 +2,6 @@ body {
   font: normal 16px comic sans ms;
   text-align: center;
 }
-
 #tic-tac-toe {
   cell-spacing: 0px;
   border-spacing: 0px;
